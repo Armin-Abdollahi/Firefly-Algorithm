@@ -1,12 +1,12 @@
 # Firefly-Algorithm
 
-
-||||
-|---|---|---|
-|![OIP (2)](https://github.com/Armin-Abdollahi/Firefly-Algorithm/assets/103449830/fc52e41e-db62-4506-839b-6db55c749088)|![OIP (3)](https://github.com/Armin-Abdollahi/Firefly-Algorithm/assets/103449830/2b700e13-75a5-4b26-9791-8520b3ad75ed)|![OIP (4)](https://github.com/Armin-Abdollahi/Firefly-Algorithm/assets/103449830/d437879b-4109-43ae-8797-1d48579aa6f4)|
-
-
 The Firefly Algorithm is a metaheuristic optimization method inspired by the social flashing behavior of fireflies. It was developed by Dr. Xin-She Yang in 2007 and is used for solving complex optimization problems. Here’s a brief overview of how it works:
+
+
+|||
+|---|---|
+|![1](https://github.com/Armin-Abdollahi/Firefly-Algorithm/assets/103449830/e44646f6-2a14-4e50-88af-9ee9743c5cee)|![2](https://github.com/Armin-Abdollahi/Firefly-Algorithm/assets/103449830/6acbf410-8482-4e75-9983-36520bd75d49)|
+
 
 **Algorithm Overview:**
 - Initialization: Generate an initial population of fireflies.
